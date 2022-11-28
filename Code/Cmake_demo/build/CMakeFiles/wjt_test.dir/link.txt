@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/wjt_test.dir/src/main.o CMakeFiles/wjt_test.dir/src/print.o -o Out/wjt_test 

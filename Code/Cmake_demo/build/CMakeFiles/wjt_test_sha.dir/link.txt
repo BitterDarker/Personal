@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libwjt_test_sha.so -o lib/libwjt_test_sha.so CMakeFiles/wjt_test_sha.dir/src/main.o CMakeFiles/wjt_test_sha.dir/src/print.o 

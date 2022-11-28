@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test.dir/test.o -o out/test   -L/home/darker/person/Cmake_demo/test_demo/uselib  -Wl,-rpath,/home/darker/person/Cmake_demo/test_demo/uselib -lwjt_test_sha 

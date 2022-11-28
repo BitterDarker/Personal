@@ -1,0 +1,4 @@
+/home/darker/person/Cmake_demo/build/CMakeFiles/edit_cache.dir
+/home/darker/person/Cmake_demo/build/CMakeFiles/rebuild_cache.dir
+/home/darker/person/Cmake_demo/build/CMakeFiles/wjt_test_sha.dir
+/home/darker/person/Cmake_demo/build/CMakeFiles/wjt_test.dir
